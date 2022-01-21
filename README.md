@@ -1,1 +1,1 @@
-# Zoom-bot-for-classes
+https://github.com/prokan468/autobot-joins-zoom
